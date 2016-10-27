@@ -1,0 +1,13 @@
+Branching and Merging
+
+1/ git init
+2/ touch index.html
+3/ touch styles.css
+4/ gir add .
+5/ git commit -m "initial commit"
+6/ git branch add-css
+7/ git checkout add-css
+8/ Editing styles.css
+9/ git commit -m "styles-css - edit 1"
+10/ git checkout -b master
+11/ git merge add-class
