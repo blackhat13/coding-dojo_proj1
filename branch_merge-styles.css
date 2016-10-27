@@ -7,32 +7,33 @@ body {
 	background-color: white;
 }
 
-h3 {
+hhh {
 	margin-top:15px;
 	border-top:1px solid blue;
 	margin-bottom:15px;
 }
 
 #container {
-	width:600px;
 	margin:0 Auto;
-	background-color:gray;
-	padding:20px;
+	background-color:black;
+	padding:10px;
 	display:block;
+	color:white;
+	width:498px;
 }
 
 #p1 {
 	margin-bottom:20px;
 	margin-bottom:30px;
-	width:500px;
 }
 
 .images {
-	margin:50px;
-	display:block;
-	margin:30px;
+	margin:10px;
 }
 
+#myimages {
+	border:1px solid white;
+}
 
 
 
